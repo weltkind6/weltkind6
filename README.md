@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there! My name is Ilya 👋
+# I'm beginned *Front-end* developer.
 
-<!--
-**weltkind6/weltkind6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/-HTML%205-blue)
+
+
 
 Here are some ideas to get you started:
 
